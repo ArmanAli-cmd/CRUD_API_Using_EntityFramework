@@ -1,4 +1,4 @@
-# ContactsAPI(Project Name)
+# CRUD APPLICATION(Project Name)
 It is a dotNet Web Api application using sql server database. I used visual studion Ide for developing it.
 There are mainly 4 opearations are doing.
 1. Get Method(Display the all data from databases show in a form of list.)
